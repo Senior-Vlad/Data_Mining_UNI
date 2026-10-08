@@ -1,5 +1,5 @@
 import seaborn as sns
-
+import numpy as np
 # This is a sample Python script.
 
 # Press Ctrl+F5 to execute it or replace it with your code.
