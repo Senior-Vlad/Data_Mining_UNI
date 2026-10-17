@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="93ad4075-50a9-4ce3-901f-4704c7995d4e" name="Changes" comment="Laboratorium_1. Zadania 1-7 finished.">
+      <change afterPath="$PROJECT_DIR$/Lab_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_2/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Data_Mining_UNI.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Data_Mining_UNI.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ED_Lab1_python_do_analizy_danych.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/miasta.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="25" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Senior-Vlad&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Senior-Vlad/Data_Mining_UNI.git&quot;,
+    &quot;accountId&quot;: &quot;23dc11c7-0079-46e3-9703-1e11300a953a&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0000000000000007" />
+      <entry key="MS500" value="1.0009594081551925" />
+      <entry key="S2" value="1.2589787619654007" />
+      <entry key="S5" value="1.8919873917652439" />
+      <entry key="S10" value="2.652219415645085" />
+      <entry key="S30" value="8.259255623313333" />
+      <entry key="S60" value="20.928285390253134" />
+      <entry key="M2" value="53.44627391174878" />
+      <entry key="M5" value="178.1783581467734" />
+      <entry key="M10" value="340.4792518274914" />
+      <entry key="M15" value="458.1216552746401" />
+      <entry key="M30" value="691.8853560468144" />
+      <entry key="H1" value="921.4535226517999" />
+      <entry key="H2" value="1096.6260707680067" />
+      <entry key="H4" value="1230.15121757911" />
+      <entry key="D1" value="2155.476669615074" />
+      <entry key="W1" value="2902.647857532678" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="2.1733692177738493E-140" />
+      <entry key="MS500" value="1.1679565924019043E-28" />
+      <entry key="S2" value="1.0399572320546424E-7" />
+      <entry key="S5" value="0.0016787878077705626" />
+      <entry key="S10" value="0.04967624837360306" />
+      <entry key="S30" value="0.7762902728504272" />
+      <entry key="S60" value="2.0570967980643515" />
+      <entry key="M2" value="3.7371091086778985" />
+      <entry key="M5" value="7.00276155890388" />
+      <entry key="M10" value="10.895127626558036" />
+      <entry key="M15" value="13.262820489224149" />
+      <entry key="M30" value="16.944170508052387" />
+      <entry key="H1" value="20.237238993013232" />
+      <entry key="H2" value="22.935547960173267" />
+      <entry key="H4" value="26.224185719892446" />
+      <entry key="D1" value="71.0815141048184" />
+      <entry key="W1" value="106.76415585487712" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.913831450229401" />
+      <entry key="MS500" value="0.9830770193630445" />
+      <entry key="S2" value="1.2531095370682868" />
+      <entry key="S5" value="1.889668971423356" />
+      <entry key="S10" value="2.6906099241775103" />
+      <entry key="S30" value="8.959438986608438" />
+      <entry key="S60" value="22.862004249240268" />
+      <entry key="M2" value="57.048080348184385" />
+      <entry key="M5" value="185.0774340871169" />
+      <entry key="M10" value="351.3012532057356" />
+      <entry key="M15" value="471.3276659150495" />
+      <entry key="M30" value="708.7945616411098" />
+      <entry key="H1" value="941.6700646923726" />
+      <entry key="H2" value="1119.5498880533319" />
+      <entry key="H4" value="1256.3686627905665" />
+      <entry key="D1" value="2226.5547751434915" />
+      <entry key="W1" value="3009.411253628342" />
+    </decayedShown>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="AISelfReview" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3KPNhXvaZfBeD2uE5w1ZbOtiH7r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/github/Data_Mining_UNI&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\github\Data_Mining_UNI" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Data_Mining_UNI" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93ad4075-50a9-4ce3-901f-4704c7995d4e" name="Changes" comment="" />
+      <created>1791455363043</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791455363043</updated>
+      <workItem from="1791455364043" duration="288000" />
+      <workItem from="1791455692725" duration="10453000" />
+      <workItem from="1792011172370" duration="1016000" />
+      <workItem from="1792059081327" duration="5672000" />
+      <workItem from="1792067290537" duration="78000" />
+      <workItem from="1792067442744" duration="4598000" />
+      <workItem from="1792184829013" duration="819000" />
+      <workItem from="1792185731939" duration="8376000" />
+      <workItem from="1792263214028" duration="37000" />
+      <workItem from="1792263283852" duration="1475000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1791455549327</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1791455549327</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1791455753943</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1791455753943</updated>
+    </task>
+    <task id="LOCAL-00003" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1791456527967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1791456527967</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Laboratorium_1">
+      <option name="closed" value="true" />
+      <created>1791460270773</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1791460270773</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Laboratorium_1. Zadania 1-7 finished.">
+      <option name="closed" value="true" />
+      <created>1792013211493</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1792013211493</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="Laboratorium_1" />
+    <MESSAGE value="Laboratorium_1. Zadania 1-7 finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="Laboratorium_1. Zadania 1-7 finished." />
+  </component>
+</project>
